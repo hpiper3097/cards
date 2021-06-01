@@ -1,0 +1,11 @@
+line endings "lf" changed to "CRLF" in
+{
+.formatter.exs
+.gitignore
+README.md
+lib/cards.ex
+mix.exs
+test/cards_test.exs
+test/test_helper.exs
+}
+line endings unchanging on my local system
